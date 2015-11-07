@@ -1,0 +1,2 @@
+git config --global user.name "north_zou" //设置用户名 
+git config --global user.email "zoushuangping@126.com" //设置邮箱
